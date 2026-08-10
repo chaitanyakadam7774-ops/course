@@ -1,0 +1,25 @@
+.aq{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin-right: 20px;
+}
+.tf{
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+.ck{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.er{
+    font-size: 100px;
+}
+.zx{
+    height: 380px;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 5px;
+}
